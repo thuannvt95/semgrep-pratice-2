@@ -1,0 +1,7 @@
+<h2>Register</h2>
+
+<form method="post">
+Username: <input name="username"><br>
+Password: <input type="password" name="password"><br>
+<button>Register</button>
+</form>
