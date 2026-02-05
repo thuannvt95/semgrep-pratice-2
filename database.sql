@@ -1,0 +1,7 @@
+CREATE DATABASE auth_lab;
+USE auth_lab;
+
+CREATE TABLE dummy (
+ id INT AUTO_INCREMENT PRIMARY KEY,
+ name VARCHAR(50)
+);
